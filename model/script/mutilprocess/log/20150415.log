@@ -1,0 +1,18 @@
+[2015-04-15 18:19:10] [26556] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:19:10] [26557] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:19:51] [26576] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:19:51] [26577] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:20:12] [26616] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:20:12] [26617] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:20:14] [26618] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:20:14] [26619] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:22:59] [26813] [INFO] %% - memcache set failed key.
+[2015-04-15 18:22:59] [26815] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:23:53] [26853] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:24:00] [26855] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:28:22] [27020] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:28:59] [27058] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:31:03] [27163] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:31:04] [27165] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:31:04] [27167] [INFO] %% - memcache get failed key: process_task.
+[2015-04-15 18:31:04] [27169] [INFO] %% - memcache get failed key: process_task.
