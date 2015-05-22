@@ -42,7 +42,7 @@ class IMCP_DATA_SHARDING {
 	private function _addNode($name, $node) {
 		$nodename = $name;
 		$position = intval ( ($node ['positionIndex'] / $node ['positionBase']) * self::HASH_SPACE );
-		if (! $nodename || !isset($node ['positionIndex']) || !isset($node ['positionIndex'])|| isset ( $this->_nodeToPositions [$nodename] )) {
+		if (! $nodename || !isset($node ['positionIndex']) || !isset($node ['positionBase'])|| isset ( $this->_nodeToPositions [$nodename] )) {
 			throw new Exception ( "Node '$node' already exists." );
 		}
 		$this->_positionToNode [$position] = $nodename; // lookup
