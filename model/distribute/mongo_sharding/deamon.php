@@ -7,18 +7,18 @@ $servers = array (
 		'node_a' => array (
 				'dsn' => 'mongodb://172.28.20.181:27017',
 				'positionIndex' => 0,
-				'positionBase' => 3 
+				'positionBase' => 3
 		),
 		'node_b' => array (
 				'dsn' => 'mongodb://172.28.20.181:27017',
 				'positionIndex' => 1,
-				'positionBase' => 3 
+				'positionBase' => 3
 		),
 		'node_c' => array (
 				'dsn' => 'mongodb://172.28.20.181:27017',
 				'positionIndex' => 2,
-				'positionBase' => 3 
-		) 
+				'positionBase' => 3
+		)
 );
 
 $storgeRouteInstance = new storgeRoute ( $servers );
